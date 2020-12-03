@@ -1,0 +1,15 @@
+0 (User defined)
+ 0.00 0.0 60.00   0.00 04 28 (geometrical conditions)
+0  (No Gaseous Absorption
+1 Continental Model
+0
+0.3
+0 (target level)
+-1000 (sensor level)
+42 (chosen band)
+0 Homogeneous surface
+1 (directional effects)
+11 (RossLIiMaignan )
+1.0 0.77 0.2
+1 BRDF
+-0.1038554 reflectance (negative value)
